@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AVtotes",
+  "description": "Premium blue plastic moving tote rental service in the Antelope Valley, serving Palmdale, Lancaster, Rosamond, and surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
