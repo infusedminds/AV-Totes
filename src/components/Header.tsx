@@ -81,7 +81,7 @@ export default function Header({
             </button>
             <span className="flex items-center text-slate-500 space-x-1.5 text-xs bg-slate-100 px-3 py-1.5 rounded-full font-semibold">
               <MapPin className="w-3.5 h-3.5 text-blue-500" />
-              <span>Servicing Palmdale • Lancaster • Rosamond</span>
+              <span>Servicing Palmdale, Lancaster and surrounding AV area.</span>
             </span>
           </nav>
 
@@ -156,7 +156,7 @@ export default function Header({
             <div className="pt-4 border-t border-slate-100 flex flex-col space-y-4">
               <div className="flex items-center space-x-2 px-3 text-slate-500 text-xs font-semibold">
                 <MapPin className="w-4 h-4 text-blue-500 shrink-0" />
-                <span>Palmdale, Lancaster, Rosamond & Quartz Hill</span>
+                <span>Palmdale, Lancaster and surrounding AV area.</span>
               </div>
               <button
                 id="mobile-book-btn"
