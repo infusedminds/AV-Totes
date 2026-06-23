@@ -88,7 +88,7 @@ export default function Header({
           {/* Call and Book */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="tel:6615558683"
+              href="tel:6615558683" style="display:hidden"
               className="flex items-center space-x-2 text-slate-800 hover:text-blue-600 transition-colors group font-sans"
             >
               <div className="w-9 h-9 flex items-center justify-center rounded-full bg-blue-50 text-blue-600 transition-transform duration-300 group-hover:scale-105">
